@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Finishing My Javascript Project "
+title:      "Finishing My Javascript Project  "
 date:       2019-05-14 18:11:32 -0400
 permalink:  finishing_my_javascript_project
 ---
