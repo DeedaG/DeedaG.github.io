@@ -1,15 +1,14 @@
 # Site settings
+author: Christia Goodwin
 title: Flatiron Experience
 header-img: img/home-bg.png
-email: christiatidwell@bellsouth.net
-copyright_name: DeedaG
+email: christiatidwell@gmail.com
+copyright_name: Christia Goodwin
 description: > # this means to ignore newlines until "baseurl:"
   Learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DeedaG
-learn_profile: DeedaG
-email_username: christiatidwell@bellsouth.net
 
 # Build settings
 markdown: kramdown
