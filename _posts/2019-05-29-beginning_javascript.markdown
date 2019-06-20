@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Beginning Javascript"
-date:       2019-05-30 00:36:32 +0000
+title:      "Beginning Javascript Concepts"
+date:       2019-05-29 20:36:34 -0400
 permalink:  beginning_javascript
 ---
 
