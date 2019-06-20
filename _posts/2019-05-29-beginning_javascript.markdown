@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Beginning Javascript Concepts"
+title:      "Beginning Javascript "
 date:       2019-05-29 20:36:34 -0400
 permalink:  beginning_javascript
 ---
@@ -44,8 +44,8 @@ When a function is a stand alone function and not a method on an object, the *co
  
  *ES6 syntaxes* refer to the more recent version of Javascript that makes *const* and *let* available options for declaring variables.  They are not hoisted in the same way that *var*  variables are treated, and cause less confusion if variables are not declared before functions are invoked.  *Let* variables as mentioned earlier can be block scoped as well as *const*, except that *const* cannot be reassigned like *let* statements.  Most importantly, *let* and *const* variables will throw errors if they are not defined when used, which makes them easy to correct.
  
- 
- **Closure**
+ **
+ Closure
  
  *Closure* is one last concept that is important to grasp.  *Closure* refers to the ability to work with arguments in functions and "close off" the contents of a function's environment.  This offers a way to set counters that only count inside the scope of the function.  It is a self invoking function and can only be changed by the argument that the function takes.  An example of *closure* is shown below:
  
@@ -59,5 +59,5 @@ When a function is a stand alone function and not a method on an object, the *co
    count(10); 
 	     returns  11
   
-Count becomes a function because it is assigned to a function that returns a function.  Count(startVal) can make use of the scope of the anonymous function, without changing the anonymous function.  Arguments can be passed in, but the function is not changed.      
+Count becomes a function because it is assigned to a function that returns a function.  Count(startVal) can make use of the scope of the anonymous function, without changing the anonymous function.  Arguments can be passed in, but the function is not changed.    **  
  
