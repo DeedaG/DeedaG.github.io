@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Final Project"
-date:       2019-08-05 00:59:57 +0000
+date:       2019-08-04 20:59:58 -0400
 permalink:  final_project
 ---
 
